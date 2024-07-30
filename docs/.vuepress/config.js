@@ -6,7 +6,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'zh-CN',
   
-  title: '柳云零奈',
+  title: 'test',
   description: '原神,启动!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!',
 
   theme: defaultTheme({
